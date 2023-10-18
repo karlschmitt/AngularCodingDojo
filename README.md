@@ -16,7 +16,7 @@ Coding dojo repository to learn Angular and TypeScript :smiley: :relaxed:
 7. TypeScript is documented here: [TypeScript](https://www.typescriptlang.org/)
 8. A TypeScript tutorial can be found here: [TypeScript Tutorial](https://www.typescripttutorial.net/) 
 
-## Prerequisits
+## Prerequisites
 
 npm install
 
