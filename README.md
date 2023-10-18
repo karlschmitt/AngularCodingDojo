@@ -1,6 +1,10 @@
-# PlaygroundOct2nd2023
+# Playground for Angular Coding Dojo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+
+## Prerequisets
+
+npm install
 
 ## Development server
 
