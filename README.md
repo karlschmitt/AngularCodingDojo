@@ -5,6 +5,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Angular Coding Dojo
 Coding dojo repository to learn Angular and TypeScript :smiley: :relaxed:
 
+## Background
+
+1. This document is written in Markdown language, to learn more about Markdown: [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+2. Visual Studio Code can be used to edit you code: [Visual Studio Code](https://code.visualstudio.com/)
+3. The runtime for Angular is Node JS a portable zip version can be found here: [Node JS Zip](https://nodejs.org/en/download/current)
+4. The Angular Framework is documented here [Angular](https://angular.io/)
+5. The Angular Material UI is documented here [Angular Material](https://material.angular.io/)
+6. Learn Web develoment here [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+7. TypeScript is documented here: [TypeScript](https://www.typescriptlang.org/)
+8. A Tyoescript tutorial can be found here: [TypeScript Tutorial](https://www.typescripttutorial.net/) 
+
 ## Prerequisets
 
 npm install
