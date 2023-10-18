@@ -12,7 +12,7 @@ Coding dojo repository to learn Angular and TypeScript :smiley: :relaxed:
 3. The runtime for Angular is Node JS, a portable zip version can be found here: [Node JS Zip](https://nodejs.org/en/download/current)
 4. The Angular Framework is documented here [Angular](https://angular.io/)
 5. The Angular Material UI is documented here [Angular Material](https://material.angular.io/)
-6. Learn Web develoment here [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+6. Learn Web develoment here: [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 7. TypeScript is documented here: [TypeScript](https://www.typescriptlang.org/)
 8. A TypeScript tutorial can be found here: [TypeScript Tutorial](https://www.typescripttutorial.net/) 
 
