@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
+## Angular Coding Dojo
+Coding dojo repository to learn Angular and TypeScript :smiley: :relaxed:
+
 ## Prerequisets
 
 npm install
