@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 npm install
 
-The Angular Framework and the Angular Material UI shall be intalled with the "npm install" command :bowtie:
+The Angular Framework and the Angular Material UI shall be intalled with the "npm install" command invocation :bowtie:
 
 ## Development server
 
