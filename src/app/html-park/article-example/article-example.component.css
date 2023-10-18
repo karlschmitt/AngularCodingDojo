@@ -1,0 +1,25 @@
+.forecast {
+    margin: 0;
+    padding: 0.3rem;
+    background-color: #eee;
+    max-width: 400px;
+  }
+  
+  .forecast > h1,
+  .day-forecast {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+  }
+
+
+.day-forecast {
+    background: right/contain content-box border-box no-repeat url('/assets/images/png-transparent-rain-rain-blue-cloud-drop-thumbnail.png') white;
+    max-width: 300px;
+}
+  
+  .day-forecast > h2,
+  .day-forecast > p {
+    margin: 0.2rem;
+    font-size: 1rem;
+  }

@@ -1,0 +1,52 @@
+<p>aligning-buttons works!</p>
+
+<mat-grid-list cols="3" rowHeight="1:1" gutterSize="15px">
+        
+    <mat-grid-tile>
+        <mat-grid-tile-header>Top Left</mat-grid-tile-header>   
+        <div layout="row"  layout-align="start start">
+            <div><button mat-raised-button>Top Left One</button></div>
+            <div><button mat-raised-button>Top Left Two</button></div>
+            <div><button mat-raised-button>Top Left Three </button></div>
+        </div>
+    </mat-grid-tile> 
+    
+
+    <mat-grid-tile class="top-center">
+        <mat-grid-tile-header>Top Center</mat-grid-tile-header>
+        <button mat-raised-button>Top Center One </button>
+        <button mat-raised-button>Top Center Two </button>
+        <button mat-raised-button>Top Center Three </button>
+    </mat-grid-tile> 
+
+    <mat-grid-tile class="top-right">
+        <mat-grid-tile-header>Top Right</mat-grid-tile-header>
+        <button mat-raised-button>Top Left</button>
+    </mat-grid-tile> 
+    <!--------------------->
+    <mat-grid-tile class="center-left">
+        <mat-grid-tile-header>Center Left</mat-grid-tile-header>
+        <button mat-raised-button>Top Center</button>
+    </mat-grid-tile> 
+    <mat-grid-tile class="center-center">
+        <mat-grid-tile-header>Center Center</mat-grid-tile-header>
+        <button mat-raised-button>Top Left</button>
+    </mat-grid-tile> 
+    <mat-grid-tile class="center-right">
+        <mat-grid-tile-header>Center Right</mat-grid-tile-header>
+        <button mat-raised-button>Top Center</button>
+    </mat-grid-tile> 
+    <!--------------------->
+    <mat-grid-tile class="bottom-left">
+        <mat-grid-tile-header>Bottom Left</mat-grid-tile-header>
+        <button mat-raised-button>Top Center</button>
+    </mat-grid-tile> 
+    <mat-grid-tile class="bottom-center">
+        <mat-grid-tile-header>Bottom Center</mat-grid-tile-header>
+        <button mat-raised-button>Top Left</button>
+    </mat-grid-tile> 
+    <mat-grid-tile class="bottom-right">
+        <mat-grid-tile-header>Bottom Right </mat-grid-tile-header>
+        <button mat-raised-button>Top Center</button>
+    </mat-grid-tile> 
+</mat-grid-list>
